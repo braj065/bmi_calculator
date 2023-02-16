@@ -17,7 +17,7 @@ Track your Body Mass Index with a Modern BMI Calculator.
 
 ## Design
 
-https://user-images.githubusercontent.com/42675180/196056060-f5d8d258-67d4-4ed7-b01b-1ada01cfde97.mp4
+https://user-images.githubusercontent.com/23403966/219393371-ab4f0f8a-51b6-4dbd-a9a7-72a5e8cacb15.mp4
 
 
 ## Features
@@ -34,6 +34,10 @@ https://user-images.githubusercontent.com/42675180/196056060-f5d8d258-67d4-4ed7-
 <li>Details About BMI</li>
 <li>Multiple Languages</li>
 <li>Animations</li>
+
+
+
+
 
 
 ## Contribute
